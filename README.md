@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C / Java**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **bunyaminguneypinar@gmail.com**
 
